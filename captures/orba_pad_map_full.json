@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "mode_programs": {
+    "normal": 0,
+    "teams": 1,
+    "mode3": 3,
+    "chord": 2
+  },
+  "pads": {
+    "normal": {
+      "1": {
+        "channel": 9,
+        "note": 36
+      },
+      "2": {
+        "channel": 9,
+        "note": 38
+      },
+      "5": {
+        "channel": 9,
+        "note": 43
+      },
+      "8": {
+        "channel": 9,
+        "note": 70
+      },
+      "4": {
+        "channel": 9,
+        "note": 49
+      },
+      "6": {
+        "channel": 9,
+        "note": 45
+      },
+      "7": {
+        "channel": 9,
+        "note": 51
+      }
+    },
+    "teams": {
+      "1": {
+        "channel": 8,
+        "note": 57
+      },
+      "2": {
+        "channel": 8,
+        "note": 59
+      },
+      "5": {
+        "channel": 8,
+        "note": 64
+      },
+      "8": {
+        "channel": 8,
+        "note": 69
+      },
+      "4": {
+        "channel": 8,
+        "note": 62
+      },
+      "6": {
+        "channel": 8,
+        "note": 66
+      }
+    },
+    "mode3": {
+      "1": {
+        "channel": 0,
+        "note": 69
+      },
+      "2": {
+        "channel": 0,
+        "note": 71
+      },
+      "5": {
+        "channel": 0,
+        "note": 78
+      },
+      "8": {
+        "channel": 0,
+        "note": 85
+      },
+      "4": {
+        "channel": 0,
+        "note": 76
+      },
+      "6": {
+        "channel": 0,
+        "note": 81
+      }
+    },
+    "chord": {
+      "1": {
+        "channel": 15,
+        "note": 57
+      },
+      "2": {
+        "channel": 15,
+        "note": 59
+      },
+      "5": {
+        "channel": 15,
+        "note": 64
+      },
+      "8": {
+        "channel": 15,
+        "note": 69
+      },
+      "4": {
+        "channel": 15,
+        "note": 62
+      },
+      "6": {
+        "channel": 15,
+        "note": 66
+      }
+    }
+  }
+}

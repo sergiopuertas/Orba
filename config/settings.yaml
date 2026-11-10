@@ -1,0 +1,21 @@
+app:
+  name: ORBA Controller
+  mode: dry_run
+  safe_mode: true
+  profile: universal
+
+midi:
+  auto_connect: false
+  reconnect_seconds: 5
+  log_raw_messages: true
+  max_event_history: 200
+
+assistant:
+  push_to_talk_enabled: false
+  provider: simulated
+  require_confirmation: true
+
+hardware:
+  device_name: Artiphon Orba
+  transport_preference: [usb, bluetooth]
+  experimental_controls: false

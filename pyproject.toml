@@ -1,0 +1,49 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "orba-controller"
+version = "0.1.0"
+description = "ORBA Controller – macOS MIDI monitor and gesture foundation"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "PySide6>=6.7.0",
+  "mido>=1.3.2",
+  "python-rtmidi>=1.5.7",
+  "httpx>=0.27.0",
+  "pydantic>=2.8.2",
+  "PyYAML>=6.0.0",
+  "keyring>=25.0.0",
+  "pytest>=8.3.0",
+  "ruff>=0.6.0",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.3.0",
+  "ruff>=0.6.0",
+]
+
+[project.scripts]
+orba-monitor = "orba_controller.main:main"
+orba-controller = "orba_controller.ui.tray_app:main"
+orba-notify = "orba_controller.notifications.cli:main"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+src = ["src"]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.data-files]
+"config/profiles" = ["config/profiles/universal.yaml"]

@@ -1,0 +1,73 @@
+profile:
+  name: Universal
+  description: Default actions for desktop control and safe automation
+  mode_actions:
+    chord: chatgpt.open
+  gestures:
+    - name: tap
+      action: noop
+    - name: hold
+      action: noop
+    - name: double_tap
+      action: noop
+  bindings:
+    - gesture: tap
+      pad: 2
+      action: volume.down
+    - gesture: double_tap
+      pad: 2
+      action: volume.down_twice
+    - gesture: hold
+      pad: 2
+      action: volume.mute_toggle
+    - gesture: tap
+      pad: 7
+      mode: normal
+      action: volume.up
+    - gesture: double_tap
+      pad: 7
+      mode: normal
+      action: volume.up_twice
+    - gesture: tap
+      pad: 8
+      action: system.back
+    - gesture: tap
+      pad: 1
+      action: system.undo
+    - gesture: tap
+      pad: 5
+      mode: normal
+      action: spotify.play_pause
+    - gesture: hold
+      pad: 5
+      mode: chord
+      action: chatgpt.voice_toggle
+    - gesture: tap
+      pad: 5
+      mode: teams
+      action: teams.toggle_mute
+  sequences:
+    - name: spotify_next
+      steps:
+        - gesture: tap
+          pad: 5
+          mode: normal
+        - gesture: tap
+          pad: 6
+          mode: normal
+      max_gap_seconds: 0.5
+      action: spotify.next
+    - name: spotify_previous
+      steps:
+        - gesture: tap
+          pad: 5
+          mode: normal
+        - gesture: tap
+          pad: 4
+          mode: normal
+      max_gap_seconds: 0.5
+      action: spotify.previous
+
+gesture_engine:
+  hold_threshold_seconds: 0.5
+  double_tap_window_seconds: 0.3

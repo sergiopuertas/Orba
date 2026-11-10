@@ -1,0 +1,3227 @@
+{
+  "name": "Orba 1 calibration",
+  "events": [
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 3,
+      "elapsed_seconds": 0.379617
+    },
+    {
+      "type": "note_on",
+      "channel": 9,
+      "note": 49,
+      "velocity": 102,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 6.151713
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 28,
+      "elapsed_seconds": 6.151741
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 1,
+      "elapsed_seconds": 6.206763
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 13,
+      "elapsed_seconds": 6.261863
+    },
+    {
+      "type": "note_off",
+      "channel": 9,
+      "note": 49,
+      "velocity": 17,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 6.316324
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 29,
+      "elapsed_seconds": 6.316338
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 11,
+      "elapsed_seconds": 6.370362
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 6.424239
+    },
+    {
+      "type": "note_on",
+      "channel": 9,
+      "note": 43,
+      "velocity": 105,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 8.355277
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 10,
+      "elapsed_seconds": 8.355303
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 40,
+      "elapsed_seconds": 8.406952
+    },
+    {
+      "type": "note_off",
+      "channel": 9,
+      "note": 43,
+      "velocity": 29,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 8.406991
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 16,
+      "elapsed_seconds": 8.462015
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 8.516234
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 5,
+      "elapsed_seconds": 8.568619
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 8.619499
+    },
+    {
+      "type": "note_on",
+      "channel": 9,
+      "note": 45,
+      "velocity": 72,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 8.672327
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 3,
+      "elapsed_seconds": 8.672343
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 35,
+      "elapsed_seconds": 8.723621
+    },
+    {
+      "type": "note_off",
+      "channel": 9,
+      "note": 45,
+      "velocity": 20,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 8.775339
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 21,
+      "elapsed_seconds": 8.775353
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 12,
+      "elapsed_seconds": 8.828552
+    },
+    {
+      "type": "note_on",
+      "channel": 9,
+      "note": 43,
+      "velocity": 87,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 8.882266
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 40,
+      "elapsed_seconds": 8.882283
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 41,
+      "elapsed_seconds": 8.937009
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 4,
+      "elapsed_seconds": 8.992124
+    },
+    {
+      "type": "note_off",
+      "channel": 9,
+      "note": 43,
+      "velocity": 28,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 8.992143
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 19,
+      "elapsed_seconds": 9.045482
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 37,
+      "elapsed_seconds": 9.100597
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 9.15509
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 7,
+      "elapsed_seconds": 9.207026
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 9.2611
+    },
+    {
+      "type": "note_on",
+      "channel": 9,
+      "note": 51,
+      "velocity": 80,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 9.36712
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 2,
+      "elapsed_seconds": 9.421935
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 21,
+      "elapsed_seconds": 9.476326
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 44,
+      "elapsed_seconds": 9.530169
+    },
+    {
+      "type": "note_off",
+      "channel": 9,
+      "note": 51,
+      "velocity": 27,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 9.530185
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 4,
+      "elapsed_seconds": 9.584469
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 9.637702
+    },
+    {
+      "type": "note_on",
+      "channel": 9,
+      "note": 45,
+      "velocity": 69,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 9.851847
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 7,
+      "elapsed_seconds": 9.851852
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 42,
+      "elapsed_seconds": 9.906872
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 39,
+      "elapsed_seconds": 9.961921
+    },
+    {
+      "type": "note_off",
+      "channel": 9,
+      "note": 45,
+      "velocity": 28,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 9.961927
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 24,
+      "elapsed_seconds": 10.016962
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 6,
+      "elapsed_seconds": 10.071549
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 10.123859
+    },
+    {
+      "type": "note_on",
+      "channel": 9,
+      "note": 43,
+      "velocity": 91,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 10.178971
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 10,
+      "elapsed_seconds": 10.178988
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 24,
+      "elapsed_seconds": 10.2316
+    },
+    {
+      "type": "note_off",
+      "channel": 9,
+      "note": 43,
+      "velocity": 40,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 10.285941
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 20,
+      "elapsed_seconds": 10.285956
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 28,
+      "elapsed_seconds": 10.340514
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 16,
+      "elapsed_seconds": 10.394875
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 10.449967
+    },
+    {
+      "type": "note_on",
+      "channel": 9,
+      "note": 49,
+      "velocity": 55,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 10.555169
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 1,
+      "elapsed_seconds": 10.555186
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 26,
+      "elapsed_seconds": 10.607928
+    },
+    {
+      "type": "note_off",
+      "channel": 9,
+      "note": 49,
+      "velocity": 24,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 10.607945
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 16,
+      "elapsed_seconds": 10.658758
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 23,
+      "elapsed_seconds": 10.711037
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 36,
+      "elapsed_seconds": 10.763784
+    },
+    {
+      "type": "note_on",
+      "channel": 9,
+      "note": 49,
+      "velocity": 52,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 10.815965
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 10.815982
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 18,
+      "elapsed_seconds": 10.870519
+    },
+    {
+      "type": "note_off",
+      "channel": 9,
+      "note": 49,
+      "velocity": 12,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 10.870535
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 15,
+      "elapsed_seconds": 10.929272
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 16,
+      "elapsed_seconds": 10.984383
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 51,
+      "elapsed_seconds": 11.035977
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 11.087707
+    },
+    {
+      "type": "note_on",
+      "channel": 9,
+      "note": 51,
+      "velocity": 86,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 11.247981
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 1,
+      "elapsed_seconds": 11.248004
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 15,
+      "elapsed_seconds": 11.302546
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 28,
+      "elapsed_seconds": 11.355761
+    },
+    {
+      "type": "note_off",
+      "channel": 9,
+      "note": 51,
+      "velocity": 36,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 11.355785
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 29,
+      "elapsed_seconds": 11.407032
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 8,
+      "elapsed_seconds": 11.462146
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 11.51665
+    },
+    {
+      "type": "note_on",
+      "channel": 9,
+      "note": 45,
+      "velocity": 73,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 11.726312
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 2,
+      "elapsed_seconds": 11.726335
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 11.781407
+    },
+    {
+      "type": "note_off",
+      "channel": 9,
+      "note": 45,
+      "velocity": 24,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 11.83598
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 19,
+      "elapsed_seconds": 11.835996
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 44,
+      "elapsed_seconds": 11.888495
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 14,
+      "elapsed_seconds": 11.940472
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 11.992105
+    },
+    {
+      "type": "note_on",
+      "channel": 9,
+      "note": 43,
+      "velocity": 90,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 12.102169
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 17,
+      "elapsed_seconds": 12.102173
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 14,
+      "elapsed_seconds": 12.157212
+    },
+    {
+      "type": "note_off",
+      "channel": 9,
+      "note": 43,
+      "velocity": 33,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 12.157216
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 16,
+      "elapsed_seconds": 12.212325
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 24,
+      "elapsed_seconds": 12.263616
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 12,
+      "elapsed_seconds": 12.317085
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 12.371483
+    },
+    {
+      "type": "note_on",
+      "channel": 9,
+      "note": 49,
+      "velocity": 53,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 12.474484
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 12,
+      "elapsed_seconds": 12.474505
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 42,
+      "elapsed_seconds": 12.527664
+    },
+    {
+      "type": "note_off",
+      "channel": 9,
+      "note": 49,
+      "velocity": 18,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 12.527681
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 24,
+      "elapsed_seconds": 12.582043
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 14,
+      "elapsed_seconds": 12.633163
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 30,
+      "elapsed_seconds": 12.685667
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 12.737627
+    },
+    {
+      "type": "note_on",
+      "channel": 9,
+      "note": 49,
+      "velocity": 54,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 12.737644
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 32,
+      "elapsed_seconds": 12.792577
+    },
+    {
+      "type": "note_off",
+      "channel": 9,
+      "note": 49,
+      "velocity": 20,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 12.792591
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 19,
+      "elapsed_seconds": 12.844381
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 18,
+      "elapsed_seconds": 12.899485
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 49,
+      "elapsed_seconds": 12.95269
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 4,
+      "elapsed_seconds": 13.007729
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 13.007752
+    },
+    {
+      "type": "note_on",
+      "channel": 9,
+      "note": 45,
+      "velocity": 68,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 13.171257
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 9,
+      "elapsed_seconds": 13.17128
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 40,
+      "elapsed_seconds": 13.223632
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 28,
+      "elapsed_seconds": 13.275565
+    },
+    {
+      "type": "note_off",
+      "channel": 9,
+      "note": 45,
+      "velocity": 17,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 13.275581
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 33,
+      "elapsed_seconds": 13.327603
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 11,
+      "elapsed_seconds": 13.38062
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 13.434978
+    },
+    {
+      "type": "note_on",
+      "channel": 9,
+      "note": 43,
+      "velocity": 102,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 13.6468
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 2,
+      "elapsed_seconds": 13.646821
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 10,
+      "elapsed_seconds": 13.70066
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 35,
+      "elapsed_seconds": 13.75261
+    },
+    {
+      "type": "note_off",
+      "channel": 9,
+      "note": 43,
+      "velocity": 30,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 13.752633
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 13.805978
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 6,
+      "elapsed_seconds": 13.856724
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 13.911899
+    },
+    {
+      "type": "note_on",
+      "channel": 9,
+      "note": 49,
+      "velocity": 98,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 14.018635
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 24,
+      "elapsed_seconds": 14.018667
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 52,
+      "elapsed_seconds": 14.070547
+    },
+    {
+      "type": "note_off",
+      "channel": 9,
+      "note": 49,
+      "velocity": 31,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 14.070557
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 26,
+      "elapsed_seconds": 14.125583
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 7,
+      "elapsed_seconds": 14.180628
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 12,
+      "elapsed_seconds": 14.2337
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 14.233704
+    },
+    {
+      "type": "note_on",
+      "channel": 9,
+      "note": 49,
+      "velocity": 84,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 14.343816
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 8,
+      "elapsed_seconds": 14.343834
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 20,
+      "elapsed_seconds": 14.398198
+    },
+    {
+      "type": "note_off",
+      "channel": 9,
+      "note": 49,
+      "velocity": 27,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 14.451571
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 19,
+      "elapsed_seconds": 14.451588
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 7,
+      "elapsed_seconds": 14.505143
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 1,
+      "elapsed_seconds": 14.555705
+    },
+    {
+      "type": "note_on",
+      "channel": 9,
+      "note": 38,
+      "velocity": 107,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 14.55572
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 14.608151
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 10,
+      "elapsed_seconds": 14.660656
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 16,
+      "elapsed_seconds": 14.712694
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 24,
+      "elapsed_seconds": 14.76774
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 14.822838
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 2,
+      "elapsed_seconds": 15.576692
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 15.631582
+    },
+    {
+      "type": "note_off",
+      "channel": 9,
+      "note": 38,
+      "velocity": 14,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 15.999396
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 4,
+      "elapsed_seconds": 16.211547
+    },
+    {
+      "type": "note_on",
+      "channel": 9,
+      "note": 38,
+      "velocity": 32,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 16.21156
+    },
+    {
+      "type": "note_on",
+      "channel": 9,
+      "note": 42,
+      "velocity": 25,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 16.211561
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 16.264379
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 10,
+      "elapsed_seconds": 16.319428
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 1,
+      "elapsed_seconds": 16.374468
+    },
+    {
+      "type": "note_off",
+      "channel": 9,
+      "note": 38,
+      "velocity": 3,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 16.429498
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 7,
+      "elapsed_seconds": 16.4295
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 1,
+      "elapsed_seconds": 16.483319
+    },
+    {
+      "type": "note_off",
+      "channel": 9,
+      "note": 42,
+      "velocity": 11,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 16.535908
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 16.535926
+    },
+    {
+      "type": "note_on",
+      "channel": 9,
+      "note": 42,
+      "velocity": 26,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 16.587445
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 2,
+      "elapsed_seconds": 16.641599
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 24,
+      "elapsed_seconds": 16.696594
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 25,
+      "elapsed_seconds": 16.746725
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 6,
+      "elapsed_seconds": 16.799697
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 16.853637
+    },
+    {
+      "type": "note_off",
+      "channel": 9,
+      "note": 42,
+      "velocity": 7,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 17.017026
+    },
+    {
+      "type": "note_on",
+      "channel": 9,
+      "note": 49,
+      "velocity": 58,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 17.179746
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 3,
+      "elapsed_seconds": 17.179768
+    },
+    {
+      "type": "note_off",
+      "channel": 9,
+      "note": 49,
+      "velocity": 17,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 17.23195
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 17.231965
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 48,
+      "elapsed_seconds": 17.283645
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 17.338744
+    },
+    {
+      "type": "note_on",
+      "channel": 9,
+      "note": 49,
+      "velocity": 85,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 17.391792
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 7,
+      "elapsed_seconds": 17.391807
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 11,
+      "elapsed_seconds": 17.445723
+    },
+    {
+      "type": "note_off",
+      "channel": 9,
+      "note": 49,
+      "velocity": 34,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 17.500816
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 29,
+      "elapsed_seconds": 17.500831
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 42,
+      "elapsed_seconds": 17.551915
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 14,
+      "elapsed_seconds": 17.60408
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 2,
+      "elapsed_seconds": 17.658721
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 17.712405
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 4,
+      "elapsed_seconds": 17.820278
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 40,
+      "elapsed_seconds": 17.873506
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 62,
+      "elapsed_seconds": 17.92841
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 17.983347
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 19,
+      "elapsed_seconds": 18.088742
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 24,
+      "elapsed_seconds": 18.142753
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 48,
+      "elapsed_seconds": 18.195767
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 39,
+      "elapsed_seconds": 18.246563
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 18.301667
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 2,
+      "elapsed_seconds": 18.351931
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 123,
+      "value": 0,
+      "elapsed_seconds": 18.351937
+    },
+    {
+      "type": "control_change",
+      "channel": 1,
+      "note": null,
+      "velocity": null,
+      "control": 123,
+      "value": 0,
+      "elapsed_seconds": 18.351938
+    },
+    {
+      "type": "control_change",
+      "channel": 2,
+      "note": null,
+      "velocity": null,
+      "control": 123,
+      "value": 0,
+      "elapsed_seconds": 18.351939
+    },
+    {
+      "type": "control_change",
+      "channel": 3,
+      "note": null,
+      "velocity": null,
+      "control": 123,
+      "value": 0,
+      "elapsed_seconds": 18.351944
+    },
+    {
+      "type": "control_change",
+      "channel": 4,
+      "note": null,
+      "velocity": null,
+      "control": 123,
+      "value": 0,
+      "elapsed_seconds": 18.351945
+    },
+    {
+      "type": "control_change",
+      "channel": 5,
+      "note": null,
+      "velocity": null,
+      "control": 123,
+      "value": 0,
+      "elapsed_seconds": 18.351945
+    },
+    {
+      "type": "control_change",
+      "channel": 6,
+      "note": null,
+      "velocity": null,
+      "control": 123,
+      "value": 0,
+      "elapsed_seconds": 18.351945
+    },
+    {
+      "type": "control_change",
+      "channel": 7,
+      "note": null,
+      "velocity": null,
+      "control": 123,
+      "value": 0,
+      "elapsed_seconds": 18.351946
+    },
+    {
+      "type": "control_change",
+      "channel": 8,
+      "note": null,
+      "velocity": null,
+      "control": 123,
+      "value": 0,
+      "elapsed_seconds": 18.351947
+    },
+    {
+      "type": "control_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": 123,
+      "value": 0,
+      "elapsed_seconds": 18.351947
+    },
+    {
+      "type": "control_change",
+      "channel": 10,
+      "note": null,
+      "velocity": null,
+      "control": 123,
+      "value": 0,
+      "elapsed_seconds": 18.351948
+    },
+    {
+      "type": "control_change",
+      "channel": 11,
+      "note": null,
+      "velocity": null,
+      "control": 123,
+      "value": 0,
+      "elapsed_seconds": 18.351948
+    },
+    {
+      "type": "control_change",
+      "channel": 12,
+      "note": null,
+      "velocity": null,
+      "control": 123,
+      "value": 0,
+      "elapsed_seconds": 18.351949
+    },
+    {
+      "type": "control_change",
+      "channel": 13,
+      "note": null,
+      "velocity": null,
+      "control": 123,
+      "value": 0,
+      "elapsed_seconds": 18.351949
+    },
+    {
+      "type": "control_change",
+      "channel": 14,
+      "note": null,
+      "velocity": null,
+      "control": 123,
+      "value": 0,
+      "elapsed_seconds": 18.35195
+    },
+    {
+      "type": "control_change",
+      "channel": 15,
+      "note": null,
+      "velocity": null,
+      "control": 123,
+      "value": 0,
+      "elapsed_seconds": 18.35195
+    },
+    {
+      "type": "program_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 18.351951
+    },
+    {
+      "type": "program_change",
+      "channel": 1,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 18.351951
+    },
+    {
+      "type": "program_change",
+      "channel": 2,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 18.351952
+    },
+    {
+      "type": "program_change",
+      "channel": 3,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 18.351952
+    },
+    {
+      "type": "program_change",
+      "channel": 4,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 18.351953
+    },
+    {
+      "type": "program_change",
+      "channel": 5,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 18.351953
+    },
+    {
+      "type": "program_change",
+      "channel": 6,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 18.351954
+    },
+    {
+      "type": "program_change",
+      "channel": 7,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 18.351954
+    },
+    {
+      "type": "program_change",
+      "channel": 8,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 18.406022
+    },
+    {
+      "type": "program_change",
+      "channel": 9,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 18.406027
+    },
+    {
+      "type": "program_change",
+      "channel": 10,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 18.406028
+    },
+    {
+      "type": "program_change",
+      "channel": 11,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 18.406029
+    },
+    {
+      "type": "program_change",
+      "channel": 12,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 18.406029
+    },
+    {
+      "type": "program_change",
+      "channel": 13,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 18.40603
+    },
+    {
+      "type": "program_change",
+      "channel": 14,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 18.406031
+    },
+    {
+      "type": "program_change",
+      "channel": 15,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 18.406031
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 63,
+      "elapsed_seconds": 18.406032
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 1,
+      "elapsed_seconds": 18.406032
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 64,
+      "elapsed_seconds": 18.461086
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 113,
+      "value": 2,
+      "elapsed_seconds": 18.461092
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 7,
+      "elapsed_seconds": 18.461095
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 62,
+      "elapsed_seconds": 18.461097
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 113,
+      "value": 0,
+      "elapsed_seconds": 18.461099
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 63,
+      "elapsed_seconds": 18.516149
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 36,
+      "elapsed_seconds": 18.516154
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 64,
+      "elapsed_seconds": 18.516156
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 113,
+      "value": 2,
+      "elapsed_seconds": 18.516159
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 62,
+      "elapsed_seconds": 18.571282
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 1,
+      "elapsed_seconds": 18.5713
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 63,
+      "elapsed_seconds": 18.571302
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 113,
+      "value": 0,
+      "elapsed_seconds": 18.571303
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 19,
+      "elapsed_seconds": 18.625661
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 18.678878
+    },
+    {
+      "type": "aftertouch",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": 86,
+      "elapsed_seconds": 18.781396
+    },
+    {
+      "type": "pitchwheel",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 18.781413
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 74,
+      "value": 83,
+      "elapsed_seconds": 18.781414
+    },
+    {
+      "type": "note_on",
+      "channel": 0,
+      "note": 76,
+      "velocity": 121,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 18.781416
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 48,
+      "elapsed_seconds": 18.781417
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 113,
+      "value": 8,
+      "elapsed_seconds": 18.781418
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 64,
+      "elapsed_seconds": 18.781419
+    },
+    {
+      "type": "aftertouch",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": 80,
+      "elapsed_seconds": 18.78142
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 74,
+      "value": 90,
+      "elapsed_seconds": 18.781422
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 63,
+      "elapsed_seconds": 18.781423
+    },
+    {
+      "type": "aftertouch",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": 72,
+      "elapsed_seconds": 18.835126
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 74,
+      "value": 91,
+      "elapsed_seconds": 18.835143
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 113,
+      "value": 0,
+      "elapsed_seconds": 18.835145
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 24,
+      "elapsed_seconds": 18.835147
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 64,
+      "elapsed_seconds": 18.835149
+    },
+    {
+      "type": "aftertouch",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": 37,
+      "elapsed_seconds": 18.835151
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 74,
+      "value": 81,
+      "elapsed_seconds": 18.835152
+    },
+    {
+      "type": "note_off",
+      "channel": 0,
+      "note": 76,
+      "velocity": 35,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 18.835153
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 63,
+      "elapsed_seconds": 18.835154
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 39,
+      "elapsed_seconds": 18.887785
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 113,
+      "value": 1,
+      "elapsed_seconds": 18.887815
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 64,
+      "elapsed_seconds": 18.887818
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 62,
+      "elapsed_seconds": 18.942737
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 113,
+      "value": 0,
+      "elapsed_seconds": 18.942763
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 15,
+      "elapsed_seconds": 18.942765
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 63,
+      "elapsed_seconds": 18.942766
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 18.997372
+    },
+    {
+      "type": "aftertouch",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": 78,
+      "elapsed_seconds": 19.213963
+    },
+    {
+      "type": "pitchwheel",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 19.213986
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 74,
+      "value": 92,
+      "elapsed_seconds": 19.213987
+    },
+    {
+      "type": "note_on",
+      "channel": 0,
+      "note": 78,
+      "velocity": 89,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 19.213989
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 35,
+      "elapsed_seconds": 19.21399
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 113,
+      "value": 4,
+      "elapsed_seconds": 19.213991
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 62,
+      "elapsed_seconds": 19.213992
+    },
+    {
+      "type": "aftertouch",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": 74,
+      "elapsed_seconds": 19.267649
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 74,
+      "value": 103,
+      "elapsed_seconds": 19.267664
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 63,
+      "elapsed_seconds": 19.267666
+    },
+    {
+      "type": "aftertouch",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": 77,
+      "elapsed_seconds": 19.267667
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 113,
+      "value": 0,
+      "elapsed_seconds": 19.267668
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 74,
+      "value": 102,
+      "elapsed_seconds": 19.26767
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 3,
+      "elapsed_seconds": 19.267671
+    },
+    {
+      "type": "aftertouch",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": 74,
+      "elapsed_seconds": 19.267672
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 62,
+      "elapsed_seconds": 19.267673
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 74,
+      "value": 103,
+      "elapsed_seconds": 19.32073
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 113,
+      "value": 1,
+      "elapsed_seconds": 19.320744
+    },
+    {
+      "type": "aftertouch",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": 68,
+      "elapsed_seconds": 19.320746
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 63,
+      "elapsed_seconds": 19.320747
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 74,
+      "value": 102,
+      "elapsed_seconds": 19.320749
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 8,
+      "elapsed_seconds": 19.32075
+    },
+    {
+      "type": "aftertouch",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": 24,
+      "elapsed_seconds": 19.320751
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 62,
+      "elapsed_seconds": 19.320752
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 74,
+      "value": 89,
+      "elapsed_seconds": 19.320753
+    },
+    {
+      "type": "note_off",
+      "channel": 0,
+      "note": 78,
+      "velocity": 40,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 19.375223
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 113,
+      "value": 0,
+      "elapsed_seconds": 19.375244
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 63,
+      "elapsed_seconds": 19.375269
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 19.375273
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 1,
+      "elapsed_seconds": 19.426801
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 19.479055
+    },
+    {
+      "type": "aftertouch",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": 72,
+      "elapsed_seconds": 19.533971
+    },
+    {
+      "type": "pitchwheel",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 19.533986
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 74,
+      "value": 99,
+      "elapsed_seconds": 19.533988
+    },
+    {
+      "type": "note_on",
+      "channel": 0,
+      "note": 81,
+      "velocity": 69,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 19.533989
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 1,
+      "elapsed_seconds": 19.53399
+    },
+    {
+      "type": "aftertouch",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": 63,
+      "elapsed_seconds": 19.587278
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 74,
+      "value": 109,
+      "elapsed_seconds": 19.587295
+    },
+    {
+      "type": "aftertouch",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": 68,
+      "elapsed_seconds": 19.587297
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 74,
+      "value": 110,
+      "elapsed_seconds": 19.587305
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 12,
+      "elapsed_seconds": 19.587306
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 113,
+      "value": 9,
+      "elapsed_seconds": 19.587307
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 64,
+      "elapsed_seconds": 19.587309
+    },
+    {
+      "type": "aftertouch",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": 65,
+      "elapsed_seconds": 19.641368
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 74,
+      "value": 111,
+      "elapsed_seconds": 19.641382
+    },
+    {
+      "type": "aftertouch",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": 68,
+      "elapsed_seconds": 19.641383
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 63,
+      "elapsed_seconds": 19.641384
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 74,
+      "value": 110,
+      "elapsed_seconds": 19.641385
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 113,
+      "value": 0,
+      "elapsed_seconds": 19.641386
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 18,
+      "elapsed_seconds": 19.641387
+    },
+    {
+      "type": "aftertouch",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": 62,
+      "elapsed_seconds": 19.641388
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 62,
+      "elapsed_seconds": 19.641389
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 74,
+      "value": 111,
+      "elapsed_seconds": 19.64139
+    },
+    {
+      "type": "aftertouch",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": 43,
+      "elapsed_seconds": 19.695763
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 64,
+      "elapsed_seconds": 19.695778
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 113,
+      "value": 7,
+      "elapsed_seconds": 19.695779
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 74,
+      "value": 112,
+      "elapsed_seconds": 19.69578
+    },
+    {
+      "type": "aftertouch",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": 6,
+      "elapsed_seconds": 19.695781
+    },
+    {
+      "type": "note_off",
+      "channel": 0,
+      "note": 81,
+      "velocity": 27,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 19.695783
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 9,
+      "elapsed_seconds": 19.695784
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 63,
+      "elapsed_seconds": 19.695785
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 113,
+      "value": 0,
+      "elapsed_seconds": 19.746074
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 62,
+      "elapsed_seconds": 19.746087
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 33,
+      "elapsed_seconds": 19.746089
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 63,
+      "elapsed_seconds": 19.74609
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 0,
+      "elapsed_seconds": 19.800451
+    },
+    {
+      "type": "aftertouch",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": 62,
+      "elapsed_seconds": 19.855115
+    },
+    {
+      "type": "pitchwheel",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 19.855129
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 74,
+      "value": 97,
+      "elapsed_seconds": 19.85513
+    },
+    {
+      "type": "note_on",
+      "channel": 0,
+      "note": 78,
+      "velocity": 84,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 19.855131
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 3,
+      "elapsed_seconds": 19.855133
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 113,
+      "value": 3,
+      "elapsed_seconds": 19.855134
+    },
+    {
+      "type": "aftertouch",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": 61,
+      "elapsed_seconds": 19.908769
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 74,
+      "value": 106,
+      "elapsed_seconds": 19.908783
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 74,
+      "value": 107,
+      "elapsed_seconds": 19.908785
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 64,
+      "elapsed_seconds": 19.908786
+    },
+    {
+      "type": "aftertouch",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": 58,
+      "elapsed_seconds": 19.908787
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 48,
+      "elapsed_seconds": 19.908788
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 113,
+      "value": 10,
+      "elapsed_seconds": 19.908789
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 74,
+      "value": 108,
+      "elapsed_seconds": 19.90879
+    },
+    {
+      "type": "aftertouch",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": null,
+      "value": 42,
+      "elapsed_seconds": 19.908792
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 62,
+      "elapsed_seconds": 19.908793
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 74,
+      "value": 104,
+      "elapsed_seconds": 19.963648
+    },
+    {
+      "type": "note_off",
+      "channel": 0,
+      "note": 78,
+      "velocity": 38,
+      "control": null,
+      "value": null,
+      "elapsed_seconds": 19.963673
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 63,
+      "elapsed_seconds": 19.963675
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 113,
+      "value": 0,
+      "elapsed_seconds": 19.963676
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 2,
+      "value": 27,
+      "elapsed_seconds": 19.963678
+    },
+    {
+      "type": "control_change",
+      "channel": 0,
+      "note": null,
+      "velocity": null,
+      "control": 112,
+      "value": 62,
+      "elapsed_seconds": 19.963679
+    }
+  ]
+}
